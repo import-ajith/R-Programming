@@ -1,3 +1,4 @@
+#Factors are the data objects which are used to categorize the data and store it as levels.
 # Create a vector.
 apple_colors <- c('green','green','yellow','red','red','red','green')
 

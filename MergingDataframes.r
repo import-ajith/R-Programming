@@ -1,3 +1,4 @@
+#Merging two data frames
 library(MASS)
 merged.Pima <- merge(x = Pima.te, y = Pima.tr,
    by.x = c("bp", "bmi"),

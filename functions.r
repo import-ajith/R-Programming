@@ -1,5 +1,6 @@
 #fucntions
 # Create a function to print squares of numbers in sequence.
+# An R function is created by using the keyword function. 
 square_fucntion <- function(a){
 	for(i in 1:a){
 		b <-i^2

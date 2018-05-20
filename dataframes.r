@@ -1,4 +1,5 @@
 # Create the data frame.
+# Data frames are tabular data objects. Unlike a matrix in data frame each column can contain different modes of data.
 BMI <- data.frame(
 		gender = c("M","F","M","F"),
 		height = c(152,148,170,152),
